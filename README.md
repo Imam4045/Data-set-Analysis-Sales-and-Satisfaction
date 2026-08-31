@@ -23,9 +23,7 @@ This project performs exploratory analysis on a sales and customer dataset conta
   - [Visualizations](#visualizations)
   - [Encoding Examples](#encoding-examples)
 - [How to Run the Project](#-how-to-run-the-project)
-- [Project Structure](#-project-structure)
 - [Key Insights](#-key-insights)
-- [Future Improvements](#-future-improvements)
 - [Author](#-author)
 - [License](#-license)
 
@@ -181,3 +179,19 @@ Toyota → 2   Honda → 3   Ford → 2
 ```
 
 ---
+
+## 🚀 How to Run the Project
+
+### Prerequisites
+```bash
+pip install pandas matplotlib seaborn scikit-learn jupyter
+```
+
+### Run the notebook
+```bash
+git clone https://github.com/Imam4045/Data-set-Analysis-Sales-and-Satisfaction.git
+cd Data-set-Analysis-Sales-and-Satisfaction
+jupyter notebook Sales_without_NaNs.ipynb
+```
+
+Make sure `Sales_without_NaNs_v1.3.csv` is in the same directory as the notebook before running the cells.
