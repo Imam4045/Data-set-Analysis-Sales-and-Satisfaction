@@ -60,7 +60,7 @@ This project performs exploratory analysis on a sales and customer dataset conta
 | **Jupyter Notebook** | Interactive analysis environment |
 
 ---
-
+## ⚙️ Analysis Performed
 ### 1. Numerical Data Analysis
 Calculates key statistics for sales and customer-satisfaction variables:
 - Minimum and maximum
