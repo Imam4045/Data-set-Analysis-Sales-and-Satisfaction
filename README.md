@@ -131,7 +131,7 @@ The target variable is **almost perfectly balanced** (~50/50 split), so no resam
 | Customer_Satisfaction_Before | 70.249 | 69.644 | 16.928 | 286.55 |
 | Customer_Satisfaction_After | 73.921 | 73.709 | 18.185 | 330.70 |
 
-Both **sales** and **satisfaction** increase on average from "before" to "after" — sales rise by ~76.5 points on average, and satisfaction rises by ~3.7 points.
+Both **sales** and **satisfaction** increase on average from "before" to "after" sales rise by ~76.5 points on average, and satisfaction rises by ~3.7 points.
 
 ### Categorical Frequency Distribution
 
