@@ -150,21 +150,13 @@ Both **sales** and **satisfaction** increase on average from "before" to "after"
 
 ### Visualizations
 
-```markdown
 ![Group Distribution](assets/group_pie_chart.png)
 ![Customer Segment Distribution](assets/customer_segment_pie_chart.png)
 ![Purchase Made Distribution](assets/purchase_made_pie_chart.png)
 ![Summary Statistics Line Graph](assets/stats_line_graph.png)
 ![Correlation Heatmap](assets/correlation_heatmap.png)
-```
-
-- **Pie charts** — distribution of `Group` (`#08B8BE` / `#5AE41A`), `Customer_Segment` (`#08B8BE` / `#A6C204` / `#FF1911B7`), and `Purchase_Made` (`#088ABE` / `#FF1911B7`)
-- **Line graph** — mean, median, variance, and standard deviation plotted across all four numerical columns for quick visual comparison
-- **Correlation heatmap** — Pearson correlation across all columns after label-encoding the categorical fields (`coolwarm` colormap, annotated)
 
 ### Encoding Examples
-
-The notebook demonstrates each technique on a small sample before it would be applied to the real dataset's categorical columns:
 
 **Label Encoding** (`Fruit` → `Fruit_encoded`)
 ```
