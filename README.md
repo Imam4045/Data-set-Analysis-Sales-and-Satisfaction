@@ -22,6 +22,8 @@ This project performs exploratory analysis on a sales and customer dataset conta
   - [Visualizations](#visualizations)
   - [Encoding Examples](#encoding-examples)
 - [How to Run the Project](#-how-to-run-the-project)
+- [Contributing](#Contributing)
+- [License](#License)
 
 ---
 
