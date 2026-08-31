@@ -195,3 +195,22 @@ jupyter notebook Sales_without_NaNs.ipynb
 ```
 
 Make sure `Sales_without_NaNs_v1.3.csv` is in the same directory as the notebook before running the cells.
+
+---
+## 🤝 Contributing
+
+If you have any suggestions or want to improve the project, feel free to fork it, make your changes and submit a pull request.
+
+---
+
+## 🔒 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+## 📧 Contact
+
+If you have any questions or concerns, please don't hesitate to contact me via email at imam220826@gmail.com
+
+
