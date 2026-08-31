@@ -11,7 +11,6 @@ This project performs exploratory analysis on a sales and customer dataset conta
 
 ## 📑 Table of Contents
 
-- [About](#-about)
 - [Dataset](#️-dataset)
 - [Technologies Used](#️-tech-stack)
 - [Analysis Performed](#️-what-this-notebook-does)
@@ -23,9 +22,6 @@ This project performs exploratory analysis on a sales and customer dataset conta
   - [Visualizations](#visualizations)
   - [Encoding Examples](#encoding-examples)
 - [How to Run the Project](#-how-to-run-the-project)
-- [Key Insights](#-key-insights)
-- [Author](#-author)
-- [License](#-license)
 
 ---
 
